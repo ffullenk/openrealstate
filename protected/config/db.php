@@ -1,8 +1,8 @@
 <?php
  return array (
   'class' => 'CDbConnection',
-  'connectionString' => 'mysql:host=localhost;dbname=openrealstate;port=3306',
-  'username' => 'openrealstate',
+  'connectionString' => 'mysql:host=localhost;dbname=ffullenk_openrealstate;port=3306',
+  'username' => 'ffullenk_ors',
   'password' => 'gnuubuntu12',
   'emulatePrepare' => true,
   'charset' => 'utf8',
